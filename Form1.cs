@@ -292,7 +292,7 @@ namespace NewPOS
 
                 Font fontWelcome = new Font("Poppins", 18);
 
-                Font fontProducts = new Font("Arial", 12);
+                Font fontProducts = new Font("Poppins", 12);
 
                 SolidBrush sb = new SolidBrush(Color.DarkGray);
 

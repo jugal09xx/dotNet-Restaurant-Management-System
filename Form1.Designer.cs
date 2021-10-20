@@ -60,7 +60,7 @@
             // 
             // lbProductsToBuy
             // 
-            this.lbProductsToBuy.Font = new System.Drawing.Font("Poppins", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.lbProductsToBuy.Font = new System.Drawing.Font("Arial", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.lbProductsToBuy.FormattingEnabled = true;
             this.lbProductsToBuy.ItemHeight = 16;
             this.lbProductsToBuy.Location = new System.Drawing.Point(767, 118);
