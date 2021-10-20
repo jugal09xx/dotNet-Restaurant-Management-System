@@ -1,0 +1,53 @@
+c:\users\dusan\documents\visual studio 2013\Projects\NewPOS\NewPOS\bin\Debug\NewPOS.exe.config
+C:\Users\Dusan\documents\visual studio 2013\Projects\NewPOS\NewPOS\bin\Debug\Database1.mdf
+C:\Users\Dusan\documents\visual studio 2013\Projects\NewPOS\NewPOS\bin\Debug\Database1_log.ldf
+C:\Users\Dusan\documents\visual studio 2013\Projects\NewPOS\NewPOS\bin\Debug\NewPOS.exe
+C:\Users\Dusan\documents\visual studio 2013\Projects\NewPOS\NewPOS\bin\Debug\NewPOS.pdb
+C:\Users\Dusan\documents\visual studio 2013\Projects\NewPOS\NewPOS\obj\Debug\NewPOS.csprojResolveAssemblyReference.cache
+C:\Users\Dusan\documents\visual studio 2013\Projects\NewPOS\NewPOS\obj\Debug\NewPOS.Properties.Resources.resources
+C:\Users\Dusan\documents\visual studio 2013\Projects\NewPOS\NewPOS\obj\Debug\NewPOS.csproj.GenerateResource.Cache
+C:\Users\Dusan\documents\visual studio 2013\Projects\NewPOS\NewPOS\obj\Debug\NewPOS.exe
+C:\Users\Dusan\documents\visual studio 2013\Projects\NewPOS\NewPOS\obj\Debug\NewPOS.pdb
+C:\Users\Dusan\documents\visual studio 2013\Projects\NewPOS\NewPOS\obj\Debug\NewPOS.Form1.resources
+C:\Users\Dusan\documents\visual studio 2013\Projects\NewPOS\NewPOS\bin\Debug\EntityFramework.dll
+C:\Users\Dusan\documents\visual studio 2013\Projects\NewPOS\NewPOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dusan\documents\visual studio 2013\Projects\NewPOS\NewPOS\bin\Debug\EntityFramework.xml
+C:\Users\Dusan\documents\visual studio 2013\Projects\NewPOS\NewPOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dusan\documents\visual studio 2013\Projects\NewPOS\NewPOS\obj\Debug\NewPOS.ViewProductsForm.resources
+C:\Users\Dusan\documents\visual studio 2013\Projects\NewPOS\NewPOS\obj\Debug\NewPOS.LoginForm.resources
+C:\Users\Dusan\documents\visual studio 2013\Projects\NewPOS\NewPOS\obj\Debug\NewPOS.RegisterForm.resources
+C:\Users\Dusan\documents\visual studio 2013\Projects\NewPOS\NewPOS\obj\Debug\NewPOS.PayForm.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\NewPOS\bin\Debug\Database1.mdf
+C:\Users\Personal-01\Desktop\Sourcecodester\NewPOS\bin\Debug\Database1_log.ldf
+C:\Users\jug09\Desktop\My Projects\NewPOS\bin\Debug\Database1.mdf
+C:\Users\jug09\Desktop\My Projects\NewPOS\bin\Debug\Database1_log.ldf
+C:\Users\jug09\Desktop\My Projects\NewPOS\bin\Debug\NewPOS.exe.config
+C:\Users\jug09\Desktop\My Projects\NewPOS\bin\Debug\NewPOS.exe
+C:\Users\jug09\Desktop\My Projects\NewPOS\bin\Debug\NewPOS.pdb
+C:\Users\jug09\Desktop\My Projects\NewPOS\obj\Debug\NewPOS.csproj.AssemblyReference.cache
+C:\Users\jug09\Desktop\My Projects\NewPOS\obj\Debug\NewPOS.Form1.resources
+C:\Users\jug09\Desktop\My Projects\NewPOS\obj\Debug\NewPOS.LoginForm.resources
+C:\Users\jug09\Desktop\My Projects\NewPOS\obj\Debug\NewPOS.PayForm.resources
+C:\Users\jug09\Desktop\My Projects\NewPOS\obj\Debug\NewPOS.Properties.Resources.resources
+C:\Users\jug09\Desktop\My Projects\NewPOS\obj\Debug\NewPOS.RegisterForm.resources
+C:\Users\jug09\Desktop\My Projects\NewPOS\obj\Debug\NewPOS.ViewProductsForm.resources
+C:\Users\jug09\Desktop\My Projects\NewPOS\obj\Debug\NewPOS.csproj.GenerateResource.cache
+C:\Users\jug09\Desktop\My Projects\NewPOS\obj\Debug\NewPOS.csproj.CoreCompileInputs.cache
+C:\Users\jug09\Desktop\My Projects\NewPOS\obj\Debug\NewPOS.exe
+C:\Users\jug09\Desktop\My Projects\NewPOS\obj\Debug\NewPOS.pdb
+C:\Users\jug09\Desktop\My Projects\Restaurant Management System\bin\Debug\Database1.mdf
+C:\Users\jug09\Desktop\My Projects\Restaurant Management System\bin\Debug\Database1_log.ldf
+C:\Users\jug09\Desktop\My Projects\Restaurant Management System\bin\Debug\NewPOS.exe.config
+C:\Users\jug09\Desktop\My Projects\Restaurant Management System\bin\Debug\NewPOS.exe
+C:\Users\jug09\Desktop\My Projects\Restaurant Management System\bin\Debug\NewPOS.pdb
+C:\Users\jug09\Desktop\My Projects\Restaurant Management System\obj\Debug\NewPOS.csproj.AssemblyReference.cache
+C:\Users\jug09\Desktop\My Projects\Restaurant Management System\obj\Debug\NewPOS.Form1.resources
+C:\Users\jug09\Desktop\My Projects\Restaurant Management System\obj\Debug\NewPOS.LoginForm.resources
+C:\Users\jug09\Desktop\My Projects\Restaurant Management System\obj\Debug\NewPOS.PayForm.resources
+C:\Users\jug09\Desktop\My Projects\Restaurant Management System\obj\Debug\NewPOS.Properties.Resources.resources
+C:\Users\jug09\Desktop\My Projects\Restaurant Management System\obj\Debug\NewPOS.RegisterForm.resources
+C:\Users\jug09\Desktop\My Projects\Restaurant Management System\obj\Debug\NewPOS.ViewProductsForm.resources
+C:\Users\jug09\Desktop\My Projects\Restaurant Management System\obj\Debug\NewPOS.csproj.GenerateResource.cache
+C:\Users\jug09\Desktop\My Projects\Restaurant Management System\obj\Debug\NewPOS.csproj.CoreCompileInputs.cache
+C:\Users\jug09\Desktop\My Projects\Restaurant Management System\obj\Debug\NewPOS.exe
+C:\Users\jug09\Desktop\My Projects\Restaurant Management System\obj\Debug\NewPOS.pdb
